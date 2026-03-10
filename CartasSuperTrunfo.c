@@ -8,7 +8,7 @@
 
 int main() {
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
-    int n; 
+    int n, total; 
     
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     printf("Olá mundo, no codespace\n");
